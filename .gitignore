@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# MacOS Specific Files
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables
+.env
